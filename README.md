@@ -1,4 +1,4 @@
-# ⚙️ DC Motor Speed Control using PID (C)
+# ⚙️ DC Motor Speed Control using PID (C-programming)
 
 ## 📌 Overview
 
